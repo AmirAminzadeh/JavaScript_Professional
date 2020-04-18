@@ -1,0 +1,16 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development"
+  },
+  "author": "Amir Aminzadeh",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {}
+}
